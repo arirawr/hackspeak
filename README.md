@@ -17,3 +17,6 @@ Contributions are encouraged! Please follow the contributing guidelines listed b
 - Include only terms related to technology, hacking, hackathons, and HH. In general, if the term would be used in the HH group, it could be included here.
 - Use appropriate language in your definitions.
 - Submit changes as pull requests to this repository, being sure to include new entries in all indexes (alphabetical, categorized, etc.)
+
+###Sample entry
+__HH__: Acronym for Hackathon Hackers, a large, multi-part Facebook group for people who are involved in or interested in hackathons, usually those who attend them.
