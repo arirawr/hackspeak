@@ -7,6 +7,7 @@
 ##c
 
 ##d
+__DRY__: Don't Repeat Yourself. It is a simple rule to help beginners keep their code light and slim. If you see duplicates in your code then you should be able to replace them with a method/class. 
 
 ##e
 
