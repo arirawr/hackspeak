@@ -7,6 +7,7 @@
 ##c
 _CTF_: Capture the flag, usually pertaining to a coding or digital competition, is a competition where a team (usually up to 5 people) participate and try to complete a specific challenges. Examples include picoCTF and EasyCTF.
 ##d
+__DRY__: Don't Repeat Yourself. It is a simple rule to help beginners keep their code light and slim. If you see duplicates in your code then you should be able to replace them with a method/class. 
 
 ##e
 
