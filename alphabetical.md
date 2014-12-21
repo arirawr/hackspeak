@@ -5,7 +5,7 @@
 ##b
 
 ##c
-
+_CTF_: Capture the flag, usually pertaining to a coding or digital competition, is a competition where a team (usually up to 5 people) participate and try to complete a specific challenges. Examples include picoCTF and EasyCTF.
 ##d
 
 ##e
