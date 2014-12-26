@@ -14,7 +14,9 @@ __DRY__: Don't Repeat Yourself. It is a simple rule to help beginners keep their
 ##f
 
 ##g
+__GNU__: A recursive acronym, "GNU's not Unix!"  GNU is a Unix-like operating system launched in 1982.  
 
+__GPL__: The GNU General Public License. The most widely used free software license.  This license gives users the right to study, modify, use, and distribute the software for free.  
 ##h
 
 __hackathon__: An event at which attendees may participate in a variety of activities including (but optionally and not limited to) writing new software, creating new hardware, listening to technical talks by peers and/or industry experts, and meeting others like them in the local, national, or international community. Participants (typically) bring their own materials and tool.
