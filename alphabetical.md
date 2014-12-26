@@ -20,6 +20,7 @@ __DRY__: Don't Repeat Yourself. It is a simple rule to help beginners keep their
 __hackathon__: An event at which attendees may participate in a variety of activities including (but optionally and not limited to) writing new software, creating new hardware, listening to technical talks by peers and/or industry experts, and meeting others like them in the local, national, or international community. Participants (typically) bring their own materials and tool.
 
 ##i
+__IIRC__: An acronym for "If I Recall Correctly".
 
 ##j
 
@@ -28,6 +29,7 @@ __hackathon__: An event at which attendees may participate in a variety of activ
 ##l
 
 ##m
+__m8__: Acronym for mate.
 
 ##n
 
