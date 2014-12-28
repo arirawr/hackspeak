@@ -18,5 +18,7 @@ Contributions are encouraged! Please follow the contributing guidelines listed b
 - Use appropriate language in your definitions.
 - Submit changes as pull requests to this repository, being sure to include new entries in all indexes (alphabetical, categorized, etc.)
 
+If you are new to __Markdown__, check out GitHub's guide to mastering markdown [here](https://guides.github.com/features/mastering-markdown/).
+
 ###Sample entry
 __HH__: Acronym for Hackathon Hackers, a large, multi-part Facebook group for people who are involved in or interested in hackathons, usually those who attend them.
