@@ -24,12 +24,15 @@ __hackathon__: An event at which attendees may participate in a variety of activ
 ##i
 __IIRC__: An acronym for "If I Recall Correctly".
 
+
+
 ##j
 
 ##k
 
 ##l
 
+__LMGTFY__ [(Link)](http://lmgtfy.com): An acronym for "Let Me Google That For You".
 ##m
 __m8__: Acronym for mate.
 
@@ -51,7 +54,9 @@ __PR__: pull request OR public relations.
 
 ##s
 
-__sponsorship__: the giving of money and or resources to someone or some organization in exchange for recognition, services, etc.  In the context of hackathons, this occurs when event organizers cultivate relationships with companies and receive from those companies money, goods, or services in exchange for providing benefits to those companies like branding, marketing, in-person access to attendees during the event, etc.
+__Sponsorship__: the giving of money and or resources to someone or some organization in exchange for recognition, services, etc.  In the context of hackathons, this occurs when event organizers cultivate relationships with companies and receive from those companies money, goods, or services in exchange for providing benefits to those companies like branding, marketing, in-person access to attendees during the event, etc.
+
+__Startup__: a idea; a business.
 
 ##t
 
