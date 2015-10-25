@@ -6,6 +6,7 @@
 
 ##c
 __CTF__: Capture the flag, usually pertaining to a coding or digital competition, is a competition where a team (usually up to 5 people) participate and try to complete a specific challenges. Examples include picoCTF and EasyCTF.
+
 ##d
 __DRY__: Don't Repeat Yourself. It is a simple rule to help beginners keep their code light and slim. If you see duplicates in your code then you should be able to replace them with a method/class. 
 
@@ -34,6 +35,8 @@ __LMGTFY__ [(Link)](http://lmgtfy.com): An acronym for "Let Me Google That For Y
 ##m
 __m8__: Acronym for mate.
 
+__MLH__: Major League Hacking, the official student hackathon league. It organizes over 150 Hackathons every year in multiple countries.
+
 ##n
 __node.js is the only real dev language__: A recurring joke in Hackathon Hackers, originally used to make fun of those who used node.js. Now, it is often posted anywhere, without context.  Originated from the reactions of (typically) inexperienced developers after using Node.js for some time -- due to the flexible and efficient nature of the language, it has many benefits in many different contexts.
 
@@ -52,6 +55,8 @@ __PR__: pull request OR public relations.
 __sponsorship__: the giving of money and or resources to someone or some organization in exchange for recognition, services, etc.  In the context of hackathons, this occurs when event organizers cultivate relationships with companies and receive from those companies money, goods, or services in exchange for providing benefits to those companies like branding, marketing, in-person access to attendees during the event, etc.
 
 __startup__: an idea; a business.
+
+__SO__: Acronym for [Stack Overflow](http://stackoverflow.com), an extremely popular question and answer site for programmers. 
 
 ##t
 
